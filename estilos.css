@@ -1,0 +1,12 @@
+.centrado{
+    text-align: center;
+    border: 2px solid cadetblue;
+}
+.fondo1{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(37,176,231,1) 13%, rgba(8,44,144,1) 18%, rgba(6,78,166,1) 50%, rgba(2,168,226,1) 86%, rgba(0,212,255,1) 100%);
+}
+.fondo2{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(89,163,250,1) 100%);
+}
